@@ -1,0 +1,2 @@
+2025-01-29 19:53:12,887 - ERROR - 벡터스토어 로드 실패: Error in Index *__cdecl faiss::read_index(IOReader *, int) at D:\a\faiss-wheels\faiss-wheels\faiss\faiss\impl\index_read.cpp:1070: Index type 0x41414167 ("gAAA") not recognized
+2025-01-29 19:53:23,729 - ERROR - 벡터스토어 로드 실패: Error in Index *__cdecl faiss::read_index(IOReader *, int) at D:\a\faiss-wheels\faiss-wheels\faiss\faiss\impl\index_read.cpp:1070: Index type 0x41414167 ("gAAA") not recognized

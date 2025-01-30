@@ -1,0 +1,6 @@
+① .env 파일에 아래 넣기
+     POWERSHELL_CURL_ALIAS=0
+
+② 파워쉘 설정: Remove-Item Alias:\curl -Force
+③ script.ps1 파일 실행
+  

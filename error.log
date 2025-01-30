@@ -1,0 +1,22 @@
+2025-01-28 19:25:47,218 - ERROR - 
+            Error Occurred:
+            Timestamp: 2025-01-28T19:25:47.218437
+            Message: 'source'
+            Stack Trace: Traceback (most recent call last):
+  File "D:\clean\server\app_server.py", line 70, in chat
+    {"source": doc.metadata["source"], "page": doc.metadata["page"]}
+               ~~~~~~~~~~~~^^^^^^^^^^
+KeyError: 'source'
+
+            
+2025-01-28 19:29:19,857 - ERROR - 
+            Error Occurred:
+            Timestamp: 2025-01-28T19:29:19.856954
+            Message: 'source'
+            Stack Trace: Traceback (most recent call last):
+  File "D:\clean\server\app_server.py", line 82, in chat
+    {"source": doc.metadata["source"], "page": doc.metadata["page"]}
+               ~~~~~~~~~~~~^^^^^^^^^^
+KeyError: 'source'
+
+            

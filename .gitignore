@@ -1,0 +1,9 @@
+.env
+.streamlit/
+app_streamlit_faiss_pymupdf.py
+app_streamlit_faiss_pymupdf_UI_Design.py
+chat_server.log
+data/
+myenv/
+static/
+/경로/다른 디렉토리명.md
